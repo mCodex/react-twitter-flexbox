@@ -2,7 +2,7 @@
   "name": "react-flexbox-study",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://mcodex.github.io/rocketseat-rocketshoes",
+  "homepage": "http://mcodex.github.io/react-twitter-flexbox",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
